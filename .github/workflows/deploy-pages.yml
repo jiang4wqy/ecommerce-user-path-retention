@@ -1,3 +1,4 @@
+# Builds web/ (Vite) and publishes to GitHub Pages on every push to master.
 name: Deploy web story page to GitHub Pages
 
 on:
