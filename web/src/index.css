@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root { color-scheme: light; }
+
+body {
+  background: linear-gradient(180deg, #faf6ef 0%, #f1f5f0 100%);
+  font-family: "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", "Segoe UI", sans-serif;
+  margin: 0;
+}
+
+html { scroll-behavior: smooth; }
