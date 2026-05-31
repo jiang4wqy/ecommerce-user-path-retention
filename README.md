@@ -4,7 +4,7 @@
 
 ## 在线演示
 
-- **数据故事页（推荐）**：<https://jiang4wqy.github.io/电商用户路径与留存分析/> — 暖调轻奢配色、滚动叙事、漏斗与留存随滚动逐级点亮的只读展示页（Vite + React + Framer Motion + Recharts），由 GitHub Pages 自动部署。
+- **数据故事页（推荐）**：<https://jiang4wqy.github.io/ecommerce-user-path-retention/> — 暖调轻奢配色、滚动叙事、漏斗与留存随滚动逐级点亮的只读展示页（Vite + React + Framer Motion + Recharts），由 GitHub Pages 自动部署。
 - **交互工作台**：本地运行 Streamlit dashboard（见下方「本地运行」），支持日期/品类/品牌/价格实时筛选。
 
 > 两者读取同一套已算好的指标，数字一致：Streamlit 用于交互分析，故事页用于对外展示。
