@@ -14,8 +14,10 @@ export function useCountUp(target: number, active: boolean, durationMs = 1000): 
     }
     const start = performance.now();
     let raf = 0;
-    const tick = (now: number) => {
-      const t = Math.min(1, (now - start) / durationMs);
+    const tick = () => {
+      // Use performance.now() (not the rAF timestamp) so start and elapsed share
+      // one clock — the rAF timestamp can use a different origin under jsdom.
+      const t = Math.min(1, (performance.now() - start) / durationMs);
       const eased = 1 - Math.pow(1 - t, 3); // easeOutCubic
       setValue(target * eased);
       if (t < 1) raf = requestAnimationFrame(tick);
