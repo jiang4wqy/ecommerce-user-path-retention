@@ -1,0 +1,958 @@
+{
+  "daily_kpis": [
+    {
+      "event_date": "2019-11-01",
+      "dau": 231,
+      "sessions": 332,
+      "events": 1265,
+      "views": 1230,
+      "cart_adds": 18,
+      "cart_removes": 0,
+      "purchases": 17,
+      "gmv": 1933.63,
+      "cart_rate": 0.0146,
+      "purchase_rate": 0.0138,
+      "avg_order_value": 113.7429
+    },
+    {
+      "event_date": "2019-11-02",
+      "dau": 226,
+      "sessions": 345,
+      "events": 1785,
+      "views": 1740,
+      "cart_adds": 17,
+      "cart_removes": 0,
+      "purchases": 28,
+      "gmv": 10144.7,
+      "cart_rate": 0.0098,
+      "purchase_rate": 0.0161,
+      "avg_order_value": 362.3107
+    },
+    {
+      "event_date": "2019-11-03",
+      "dau": 276,
+      "sessions": 379,
+      "events": 1594,
+      "views": 1546,
+      "cart_adds": 27,
+      "cart_removes": 0,
+      "purchases": 21,
+      "gmv": 4676.07,
+      "cart_rate": 0.0175,
+      "purchase_rate": 0.0136,
+      "avg_order_value": 222.67
+    },
+    {
+      "event_date": "2019-11-04",
+      "dau": 281,
+      "sessions": 424,
+      "events": 2019,
+      "views": 1981,
+      "cart_adds": 14,
+      "cart_removes": 0,
+      "purchases": 24,
+      "gmv": 10596.86,
+      "cart_rate": 0.0071,
+      "purchase_rate": 0.0121,
+      "avg_order_value": 441.5358
+    },
+    {
+      "event_date": "2019-11-05",
+      "dau": 297,
+      "sessions": 412,
+      "events": 1921,
+      "views": 1856,
+      "cart_adds": 35,
+      "cart_removes": 0,
+      "purchases": 30,
+      "gmv": 6794.08,
+      "cart_rate": 0.0189,
+      "purchase_rate": 0.0162,
+      "avg_order_value": 226.4693
+    },
+    {
+      "event_date": "2019-11-06",
+      "dau": 267,
+      "sessions": 424,
+      "events": 2043,
+      "views": 1994,
+      "cart_adds": 21,
+      "cart_removes": 0,
+      "purchases": 28,
+      "gmv": 8578.17,
+      "cart_rate": 0.0105,
+      "purchase_rate": 0.014,
+      "avg_order_value": 306.3632
+    },
+    {
+      "event_date": "2019-11-07",
+      "dau": 300,
+      "sessions": 456,
+      "events": 2285,
+      "views": 2229,
+      "cart_adds": 23,
+      "cart_removes": 0,
+      "purchases": 33,
+      "gmv": 8008.23,
+      "cart_rate": 0.0103,
+      "purchase_rate": 0.0148,
+      "avg_order_value": 242.6736
+    },
+    {
+      "event_date": "2019-11-08",
+      "dau": 329,
+      "sessions": 537,
+      "events": 2239,
+      "views": 2123,
+      "cart_adds": 87,
+      "cart_removes": 0,
+      "purchases": 29,
+      "gmv": 14246.38,
+      "cart_rate": 0.041,
+      "purchase_rate": 0.0137,
+      "avg_order_value": 491.2545
+    },
+    {
+      "event_date": "2019-11-09",
+      "dau": 291,
+      "sessions": 516,
+      "events": 2652,
+      "views": 2569,
+      "cart_adds": 68,
+      "cart_removes": 0,
+      "purchases": 15,
+      "gmv": 3603.79,
+      "cart_rate": 0.0265,
+      "purchase_rate": 0.0058,
+      "avg_order_value": 240.2527
+    },
+    {
+      "event_date": "2019-11-10",
+      "dau": 310,
+      "sessions": 506,
+      "events": 2809,
+      "views": 2722,
+      "cart_adds": 61,
+      "cart_removes": 0,
+      "purchases": 26,
+      "gmv": 7638.15,
+      "cart_rate": 0.0224,
+      "purchase_rate": 0.0096,
+      "avg_order_value": 293.775
+    },
+    {
+      "event_date": "2019-11-11",
+      "dau": 335,
+      "sessions": 555,
+      "events": 2650,
+      "views": 2539,
+      "cart_adds": 83,
+      "cart_removes": 0,
+      "purchases": 28,
+      "gmv": 7606.28,
+      "cart_rate": 0.0327,
+      "purchase_rate": 0.011,
+      "avg_order_value": 271.6529
+    },
+    {
+      "event_date": "2019-11-12",
+      "dau": 310,
+      "sessions": 473,
+      "events": 1710,
+      "views": 1623,
+      "cart_adds": 73,
+      "cart_removes": 0,
+      "purchases": 14,
+      "gmv": 3861.89,
+      "cart_rate": 0.045,
+      "purchase_rate": 0.0086,
+      "avg_order_value": 275.8493
+    },
+    {
+      "event_date": "2019-11-13",
+      "dau": 329,
+      "sessions": 505,
+      "events": 2286,
+      "views": 2192,
+      "cart_adds": 72,
+      "cart_removes": 0,
+      "purchases": 22,
+      "gmv": 10053.36,
+      "cart_rate": 0.0328,
+      "purchase_rate": 0.01,
+      "avg_order_value": 456.9709
+    },
+    {
+      "event_date": "2019-11-14",
+      "dau": 352,
+      "sessions": 667,
+      "events": 3431,
+      "views": 3240,
+      "cart_adds": 167,
+      "cart_removes": 0,
+      "purchases": 24,
+      "gmv": 7017.92,
+      "cart_rate": 0.0515,
+      "purchase_rate": 0.0074,
+      "avg_order_value": 292.4133
+    },
+    {
+      "event_date": "2019-11-15",
+      "dau": 388,
+      "sessions": 809,
+      "events": 6637,
+      "views": 6174,
+      "cart_adds": 463,
+      "cart_removes": 0,
+      "purchases": 0,
+      "gmv": 0.0,
+      "cart_rate": 0.075,
+      "purchase_rate": 0.0,
+      "avg_order_value": 0.0
+    },
+    {
+      "event_date": "2019-11-16",
+      "dau": 392,
+      "sessions": 731,
+      "events": 4618,
+      "views": 4252,
+      "cart_adds": 306,
+      "cart_removes": 0,
+      "purchases": 60,
+      "gmv": 21233.69,
+      "cart_rate": 0.072,
+      "purchase_rate": 0.0141,
+      "avg_order_value": 353.8948
+    }
+  ],
+  "funnel": [
+    {
+      "step": "view",
+      "users": 2536,
+      "sessions": 8047,
+      "overall_rate": 1.0,
+      "step_rate": 1.0
+    },
+    {
+      "step": "cart",
+      "users": 459,
+      "sessions": 894,
+      "overall_rate": 0.181,
+      "step_rate": 0.181
+    },
+    {
+      "step": "purchase",
+      "users": 165,
+      "sessions": 219,
+      "overall_rate": 0.0651,
+      "step_rate": 0.3595
+    }
+  ],
+  "retention": [
+    {
+      "cohort_date": "2019-11-01",
+      "days_since_first": 1,
+      "retained_users": 39,
+      "cohort_size": 231,
+      "retention_rate": 0.1688
+    },
+    {
+      "cohort_date": "2019-11-01",
+      "days_since_first": 3,
+      "retained_users": 39,
+      "cohort_size": 231,
+      "retention_rate": 0.1688
+    },
+    {
+      "cohort_date": "2019-11-01",
+      "days_since_first": 7,
+      "retained_users": 25,
+      "cohort_size": 231,
+      "retention_rate": 0.1082
+    },
+    {
+      "cohort_date": "2019-11-02",
+      "days_since_first": 1,
+      "retained_users": 31,
+      "cohort_size": 187,
+      "retention_rate": 0.1658
+    },
+    {
+      "cohort_date": "2019-11-02",
+      "days_since_first": 3,
+      "retained_users": 21,
+      "cohort_size": 187,
+      "retention_rate": 0.1123
+    },
+    {
+      "cohort_date": "2019-11-02",
+      "days_since_first": 7,
+      "retained_users": 15,
+      "cohort_size": 187,
+      "retention_rate": 0.0802
+    },
+    {
+      "cohort_date": "2019-11-03",
+      "days_since_first": 1,
+      "retained_users": 32,
+      "cohort_size": 203,
+      "retention_rate": 0.1576
+    },
+    {
+      "cohort_date": "2019-11-03",
+      "days_since_first": 3,
+      "retained_users": 21,
+      "cohort_size": 203,
+      "retention_rate": 0.1034
+    },
+    {
+      "cohort_date": "2019-11-03",
+      "days_since_first": 7,
+      "retained_users": 24,
+      "cohort_size": 203,
+      "retention_rate": 0.1182
+    },
+    {
+      "cohort_date": "2019-11-04",
+      "days_since_first": 1,
+      "retained_users": 35,
+      "cohort_size": 180,
+      "retention_rate": 0.1944
+    },
+    {
+      "cohort_date": "2019-11-04",
+      "days_since_first": 3,
+      "retained_users": 17,
+      "cohort_size": 180,
+      "retention_rate": 0.0944
+    },
+    {
+      "cohort_date": "2019-11-04",
+      "days_since_first": 7,
+      "retained_users": 28,
+      "cohort_size": 180,
+      "retention_rate": 0.1556
+    },
+    {
+      "cohort_date": "2019-11-05",
+      "days_since_first": 1,
+      "retained_users": 26,
+      "cohort_size": 184,
+      "retention_rate": 0.1413
+    },
+    {
+      "cohort_date": "2019-11-05",
+      "days_since_first": 3,
+      "retained_users": 20,
+      "cohort_size": 184,
+      "retention_rate": 0.1087
+    },
+    {
+      "cohort_date": "2019-11-05",
+      "days_since_first": 7,
+      "retained_users": 9,
+      "cohort_size": 184,
+      "retention_rate": 0.0489
+    },
+    {
+      "cohort_date": "2019-11-06",
+      "days_since_first": 1,
+      "retained_users": 25,
+      "cohort_size": 150,
+      "retention_rate": 0.1667
+    },
+    {
+      "cohort_date": "2019-11-06",
+      "days_since_first": 3,
+      "retained_users": 15,
+      "cohort_size": 150,
+      "retention_rate": 0.1
+    },
+    {
+      "cohort_date": "2019-11-06",
+      "days_since_first": 7,
+      "retained_users": 9,
+      "cohort_size": 150,
+      "retention_rate": 0.06
+    },
+    {
+      "cohort_date": "2019-11-07",
+      "days_since_first": 1,
+      "retained_users": 24,
+      "cohort_size": 163,
+      "retention_rate": 0.1472
+    },
+    {
+      "cohort_date": "2019-11-07",
+      "days_since_first": 3,
+      "retained_users": 19,
+      "cohort_size": 163,
+      "retention_rate": 0.1166
+    },
+    {
+      "cohort_date": "2019-11-07",
+      "days_since_first": 7,
+      "retained_users": 26,
+      "cohort_size": 163,
+      "retention_rate": 0.1595
+    },
+    {
+      "cohort_date": "2019-11-08",
+      "days_since_first": 1,
+      "retained_users": 23,
+      "cohort_size": 183,
+      "retention_rate": 0.1257
+    },
+    {
+      "cohort_date": "2019-11-08",
+      "days_since_first": 3,
+      "retained_users": 16,
+      "cohort_size": 183,
+      "retention_rate": 0.0874
+    },
+    {
+      "cohort_date": "2019-11-08",
+      "days_since_first": 7,
+      "retained_users": 25,
+      "cohort_size": 183,
+      "retention_rate": 0.1366
+    },
+    {
+      "cohort_date": "2019-11-09",
+      "days_since_first": 1,
+      "retained_users": 5,
+      "cohort_size": 137,
+      "retention_rate": 0.0365
+    },
+    {
+      "cohort_date": "2019-11-09",
+      "days_since_first": 3,
+      "retained_users": 7,
+      "cohort_size": 137,
+      "retention_rate": 0.0511
+    },
+    {
+      "cohort_date": "2019-11-09",
+      "days_since_first": 7,
+      "retained_users": 16,
+      "cohort_size": 137,
+      "retention_rate": 0.1168
+    },
+    {
+      "cohort_date": "2019-11-10",
+      "days_since_first": 1,
+      "retained_users": 14,
+      "cohort_size": 143,
+      "retention_rate": 0.0979
+    },
+    {
+      "cohort_date": "2019-11-10",
+      "days_since_first": 3,
+      "retained_users": 8,
+      "cohort_size": 143,
+      "retention_rate": 0.0559
+    },
+    {
+      "cohort_date": "2019-11-10",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 143,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-11",
+      "days_since_first": 1,
+      "retained_users": 14,
+      "cohort_size": 140,
+      "retention_rate": 0.1
+    },
+    {
+      "cohort_date": "2019-11-11",
+      "days_since_first": 3,
+      "retained_users": 9,
+      "cohort_size": 140,
+      "retention_rate": 0.0643
+    },
+    {
+      "cohort_date": "2019-11-11",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 140,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-12",
+      "days_since_first": 1,
+      "retained_users": 20,
+      "cohort_size": 133,
+      "retention_rate": 0.1504
+    },
+    {
+      "cohort_date": "2019-11-12",
+      "days_since_first": 3,
+      "retained_users": 4,
+      "cohort_size": 133,
+      "retention_rate": 0.0301
+    },
+    {
+      "cohort_date": "2019-11-12",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 133,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-13",
+      "days_since_first": 1,
+      "retained_users": 19,
+      "cohort_size": 135,
+      "retention_rate": 0.1407
+    },
+    {
+      "cohort_date": "2019-11-13",
+      "days_since_first": 3,
+      "retained_users": 7,
+      "cohort_size": 135,
+      "retention_rate": 0.0519
+    },
+    {
+      "cohort_date": "2019-11-13",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 135,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-14",
+      "days_since_first": 1,
+      "retained_users": 14,
+      "cohort_size": 125,
+      "retention_rate": 0.112
+    },
+    {
+      "cohort_date": "2019-11-14",
+      "days_since_first": 3,
+      "retained_users": 0,
+      "cohort_size": 125,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-14",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 125,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-15",
+      "days_since_first": 1,
+      "retained_users": 34,
+      "cohort_size": 133,
+      "retention_rate": 0.2556
+    },
+    {
+      "cohort_date": "2019-11-15",
+      "days_since_first": 3,
+      "retained_users": 0,
+      "cohort_size": 133,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-15",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 133,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-16",
+      "days_since_first": 1,
+      "retained_users": 0,
+      "cohort_size": 109,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-16",
+      "days_since_first": 3,
+      "retained_users": 0,
+      "cohort_size": 109,
+      "retention_rate": 0.0
+    },
+    {
+      "cohort_date": "2019-11-16",
+      "days_since_first": 7,
+      "retained_users": 0,
+      "cohort_size": 109,
+      "retention_rate": 0.0
+    }
+  ],
+  "paths": [
+    {
+      "path": "view",
+      "sessions": 2747
+    },
+    {
+      "path": "view > view > view > view > view",
+      "sessions": 2164
+    },
+    {
+      "path": "view > view",
+      "sessions": 1191
+    },
+    {
+      "path": "view > view > view",
+      "sessions": 660
+    },
+    {
+      "path": "view > view > view > view",
+      "sessions": 514
+    },
+    {
+      "path": "view > cart",
+      "sessions": 97
+    },
+    {
+      "path": "view > view > view > view > cart",
+      "sessions": 55
+    },
+    {
+      "path": "view > cart > view",
+      "sessions": 48
+    },
+    {
+      "path": "view > cart > view > view > view",
+      "sessions": 47
+    },
+    {
+      "path": "view > view > cart > view > view",
+      "sessions": 41
+    },
+    {
+      "path": "view > view > cart",
+      "sessions": 40
+    },
+    {
+      "path": "view > cart > purchase > view",
+      "sessions": 35
+    }
+  ],
+  "purchase_paths": [
+    {
+      "session_type": "No Purchase",
+      "path": "view",
+      "sessions": 2747
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > view > view > view > view",
+      "sessions": 2103
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > view",
+      "sessions": 1191
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > view > view",
+      "sessions": 660
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > view > view > view",
+      "sessions": 514
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > cart",
+      "sessions": 97
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > cart > view",
+      "sessions": 48
+    },
+    {
+      "session_type": "No Purchase",
+      "path": "view > cart > view > view > view",
+      "sessions": 44
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > view > view > view > view",
+      "sessions": 61
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > cart > purchase > view",
+      "sessions": 35
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > cart > purchase",
+      "sessions": 27
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > purchase",
+      "sessions": 24
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > view > view > cart > purchase",
+      "sessions": 17
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > purchase > view",
+      "sessions": 16
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > view > cart > purchase > view",
+      "sessions": 15
+    },
+    {
+      "session_type": "Purchased",
+      "path": "view > view > view > view > cart",
+      "sessions": 13
+    }
+  ],
+  "segments": [
+    {
+      "segment": "Browsers Only",
+      "users": 2018,
+      "share": 0.7957
+    },
+    {
+      "segment": "Cart Abandoners",
+      "users": 294,
+      "share": 0.1159
+    },
+    {
+      "segment": "Purchasers",
+      "users": 151,
+      "share": 0.0595
+    },
+    {
+      "segment": "Repeat Purchasers",
+      "users": 73,
+      "share": 0.0288
+    }
+  ],
+  "session_depth": [
+    {
+      "session_type": "No Purchase",
+      "sessions": 7711,
+      "avg_events_per_session": 5.06,
+      "avg_products_per_session": 3.35
+    },
+    {
+      "session_type": "Purchased",
+      "sessions": 337,
+      "avg_events_per_session": 8.58,
+      "avg_products_per_session": 3.16
+    }
+  ],
+  "category": [
+    {
+      "category_code": "electronics.smartphone",
+      "users": 1021,
+      "views": 8597,
+      "carts": 639,
+      "purchases": 182,
+      "gmv": 89124.16,
+      "cart_rate": 0.0743,
+      "purchase_rate": 0.0212
+    },
+    {
+      "category_code": "computers.notebook",
+      "users": 138,
+      "views": 1289,
+      "carts": 38,
+      "purchases": 10,
+      "gmv": 5009.98,
+      "cart_rate": 0.0295,
+      "purchase_rate": 0.0078
+    },
+    {
+      "category_code": "electronics.video.tv",
+      "users": 168,
+      "views": 1580,
+      "carts": 30,
+      "purchases": 7,
+      "gmv": 3413.78,
+      "cart_rate": 0.019,
+      "purchase_rate": 0.0044
+    },
+    {
+      "category_code": "electronics.clocks",
+      "users": 165,
+      "views": 781,
+      "carts": 36,
+      "purchases": 6,
+      "gmv": 2372.04,
+      "cart_rate": 0.0461,
+      "purchase_rate": 0.0077
+    },
+    {
+      "category_code": "appliances.environment.vacuum",
+      "users": 105,
+      "views": 803,
+      "carts": 37,
+      "purchases": 10,
+      "gmv": 1992.46,
+      "cart_rate": 0.0461,
+      "purchase_rate": 0.0125
+    },
+    {
+      "category_code": "appliances.kitchen.washer",
+      "users": 120,
+      "views": 876,
+      "carts": 71,
+      "purchases": 9,
+      "gmv": 1991.71,
+      "cart_rate": 0.0811,
+      "purchase_rate": 0.0103
+    },
+    {
+      "category_code": "appliances.kitchen.refrigerators",
+      "users": 104,
+      "views": 834,
+      "carts": 26,
+      "purchases": 5,
+      "gmv": 1700.8,
+      "cart_rate": 0.0312,
+      "purchase_rate": 0.006
+    },
+    {
+      "category_code": "electronics.tablet",
+      "users": 55,
+      "views": 372,
+      "carts": 11,
+      "purchases": 3,
+      "gmv": 1492.14,
+      "cart_rate": 0.0296,
+      "purchase_rate": 0.0081
+    },
+    {
+      "category_code": "electronics.audio.headphone",
+      "users": 177,
+      "views": 880,
+      "carts": 46,
+      "purchases": 6,
+      "gmv": 1064.97,
+      "cart_rate": 0.0523,
+      "purchase_rate": 0.0068
+    },
+    {
+      "category_code": "furniture.kitchen.table",
+      "users": 26,
+      "views": 136,
+      "carts": 2,
+      "purchases": 3,
+      "gmv": 800.54,
+      "cart_rate": 0.0147,
+      "purchase_rate": 0.0221
+    },
+    {
+      "category_code": "furniture.living_room.sofa",
+      "users": 50,
+      "views": 343,
+      "carts": 6,
+      "purchases": 2,
+      "gmv": 733.09,
+      "cart_rate": 0.0175,
+      "purchase_rate": 0.0058
+    },
+    {
+      "category_code": "appliances.kitchen.microwave",
+      "users": 46,
+      "views": 272,
+      "carts": 10,
+      "purchases": 4,
+      "gmv": 461.97,
+      "cart_rate": 0.0368,
+      "purchase_rate": 0.0147
+    }
+  ],
+  "price_band": [
+    {
+      "price_band": "0-100",
+      "users": 1412,
+      "views": 13965,
+      "carts": 409,
+      "purchases": 112,
+      "gmv": 5084.14,
+      "cart_rate": 0.0293,
+      "purchase_rate": 0.008
+    },
+    {
+      "price_band": "100-300",
+      "users": 1584,
+      "views": 14056,
+      "carts": 610,
+      "purchases": 159,
+      "gmv": 29547.61,
+      "cart_rate": 0.0434,
+      "purchase_rate": 0.0113
+    },
+    {
+      "price_band": "300-500",
+      "users": 899,
+      "views": 5191,
+      "carts": 209,
+      "purchases": 33,
+      "gmv": 13528.97,
+      "cart_rate": 0.0403,
+      "purchase_rate": 0.0064
+    },
+    {
+      "price_band": "500-1000",
+      "users": 853,
+      "views": 5054,
+      "carts": 255,
+      "purchases": 78,
+      "gmv": 55449.44,
+      "cart_rate": 0.0505,
+      "purchase_rate": 0.0154
+    },
+    {
+      "price_band": "1000+",
+      "users": 459,
+      "views": 1744,
+      "carts": 52,
+      "purchases": 17,
+      "gmv": 22383.04,
+      "cart_rate": 0.0298,
+      "purchase_rate": 0.0097
+    }
+  ],
+  "cart_abandonment": [
+    {
+      "cart_users": 459,
+      "cart_purchase_users": 165,
+      "cart_without_purchase_users": 294,
+      "abandonment_rate": 0.6405
+    }
+  ],
+  "scope": {
+    "rows": 41944,
+    "users": 2536,
+    "sessions": 8048,
+    "date_range": {
+      "min": "2019-11-01",
+      "max": "2019-11-16",
+      "unique_days": 16
+    }
+  },
+  "insights": [
+    "浏览到加购流失率约 81.9%，加购到购买流失率约 64.1%；优先优化加购召回和价格/优惠提醒。",
+    "样本期平均浏览购买转化率约 1.13%，适合用首页推荐、商品详情页信任信息和购物车触达提升转化。",
+    "最大用户群体是 Browsers Only，占比 79.6%；运营策略应先覆盖最大流量池。",
+    "收入贡献最高品类是 electronics.smartphone，GMV 约 89124；可作为推荐位和活动资源倾斜对象。",
+    "加购未买用户约 294 人，加购放弃率约 64.0%；适合做购物车召回和价格提醒。",
+    "购买转化率最高价格带是 500-1000，转化率约 1.54%；可作为定价和推荐策略参考。",
+    "项目重点不是预测模型，而是把用户行为日志转化为指标、诊断和可执行的产品运营建议。"
+  ]
+}
