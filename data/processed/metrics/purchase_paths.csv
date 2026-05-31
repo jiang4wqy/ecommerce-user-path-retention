@@ -1,0 +1,17 @@
+session_type,path,sessions
+No Purchase,view,2747
+No Purchase,view > view > view > view > view,2103
+No Purchase,view > view,1191
+No Purchase,view > view > view,660
+No Purchase,view > view > view > view,514
+No Purchase,view > cart,97
+No Purchase,view > cart > view,48
+No Purchase,view > cart > view > view > view,44
+Purchased,view > view > view > view > view,61
+Purchased,view > cart > purchase > view,35
+Purchased,view > cart > purchase,27
+Purchased,view > purchase,24
+Purchased,view > view > view > cart > purchase,17
+Purchased,view > purchase > view,16
+Purchased,view > view > cart > purchase > view,15
+Purchased,view > view > view > view > cart,13

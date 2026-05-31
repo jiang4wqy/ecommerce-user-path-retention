@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "rows": 41944,
+  "users": 2536,
+  "sessions": 8048,
+  "event_types": {
+    "view": 40010,
+    "cart": 1535,
+    "purchase": 399
+  },
+  "date_range": {
+    "min": "2019-11-01",
+    "max": "2019-11-16",
+    "unique_days": 16
+  },
+  "issues": []
+}

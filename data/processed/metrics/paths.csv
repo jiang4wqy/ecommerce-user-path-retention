@@ -1,0 +1,13 @@
+path,sessions
+view,2747
+view > view > view > view > view,2164
+view > view,1191
+view > view > view,660
+view > view > view > view,514
+view > cart,97
+view > view > view > view > cart,55
+view > cart > view,48
+view > cart > view > view > view,47
+view > view > cart > view > view,41
+view > view > cart,40
+view > cart > purchase > view,35

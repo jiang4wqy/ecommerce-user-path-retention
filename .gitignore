@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.superpowers/
+.streamlit/
+.venv/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.duckdb
+data/raw/*
+!data/raw/README.md
+data/processed/*.parquet
+data/processed/*.csv
+!data/processed/events_sample.csv

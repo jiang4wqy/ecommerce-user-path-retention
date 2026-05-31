@@ -1,0 +1,13 @@
+category_code,users,views,carts,purchases,gmv,cart_rate,purchase_rate
+electronics.smartphone,1021,8597,639,182,89124.16,0.0743,0.0212
+computers.notebook,138,1289,38,10,5009.98,0.0295,0.0078
+electronics.video.tv,168,1580,30,7,3413.7799999999997,0.019,0.0044
+electronics.clocks,165,781,36,6,2372.04,0.0461,0.0077
+appliances.environment.vacuum,105,803,37,10,1992.46,0.0461,0.0125
+appliances.kitchen.washer,120,876,71,9,1991.71,0.0811,0.0103
+appliances.kitchen.refrigerators,104,834,26,5,1700.8,0.0312,0.006
+electronics.tablet,55,372,11,3,1492.14,0.0296,0.0081
+electronics.audio.headphone,177,880,46,6,1064.97,0.0523,0.0068
+furniture.kitchen.table,26,136,2,3,800.54,0.0147,0.0221
+furniture.living_room.sofa,50,343,6,2,733.09,0.0175,0.0058
+appliances.kitchen.microwave,46,272,10,4,461.96999999999997,0.0368,0.0147
