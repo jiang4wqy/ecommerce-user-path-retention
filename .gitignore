@@ -15,3 +15,5 @@ data/raw/*
 data/processed/*.parquet
 data/processed/*.csv
 !data/processed/events_sample.csv
+web/node_modules/
+web/dist/
