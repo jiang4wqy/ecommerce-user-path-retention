@@ -123,6 +123,20 @@ Windows 启动 dashboard：
 
 ![Dashboard preview](assets/screenshots/dashboard_preview.png)
 
+## 数据故事页（独立前端）
+
+`web/` 是一个 Vite + React + TypeScript 的只读「数据故事」展示页，读取由 `python -m src.export_web_data` 烘焙的 `web/src/data/metrics.json`（与 Streamlit 用同一套指标，保证数值一致）。它用长卷滚动叙事 + 进度轴为骨架，漏斗与留存两个板块用「钉图」随滚动逐级点亮，配色为暖调轻奢。
+
+```bash
+cd web
+npm install
+npm run dev      # 本地预览
+npm run build    # 生产构建到 web/dist
+npm run test     # 组件冒烟测试 (Vitest)
+```
+
+数据刷新：在项目根运行 `python -m src.export_web_data`（已纳入 `run_pipeline.ps1`）。
+
 ## 当前样本关键发现
 
 - 漏斗：浏览用户 2,536 → 加购 459（18.1%）→ 购买 165（整体 6.5%）；浏览到加购流失约 82%，加购到购买转化约 36%。

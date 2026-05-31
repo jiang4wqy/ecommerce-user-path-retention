@@ -78,6 +78,7 @@ else {
 
 Invoke-PythonModule -Arguments @("-m", "src.build_database")
 Invoke-PythonModule -Arguments @("-m", "src.export_outputs")
+Invoke-PythonModule -Arguments @("-m", "src.export_web_data")
 Invoke-PythonModule -Arguments @("-m", "pytest", "-q", "-p", "no:cacheprovider")
 Clear-GeneratedPythonFiles
 Invoke-PythonModule -Arguments @("-m", "src.project_audit")
