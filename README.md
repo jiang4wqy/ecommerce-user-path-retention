@@ -1,5 +1,9 @@
 # 电商 App 用户行为路径与转化留存分析项目
 
+[![tests](https://github.com/jiang4wqy/ecommerce-user-path-retention/actions/workflows/tests.yml/badge.svg)](https://github.com/jiang4wqy/ecommerce-user-path-retention/actions/workflows/tests.yml)
+[![pages](https://github.com/jiang4wqy/ecommerce-user-path-retention/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/jiang4wqy/ecommerce-user-path-retention/actions/workflows/deploy-pages.yml)
+[![live demo](https://img.shields.io/badge/live%20demo-GitHub%20Pages-0f5e57)](https://jiang4wqy.github.io/ecommerce-user-path-retention/)
+
 一个面向数据分析、商业分析、产品分析和运营分析岗位的作品集项目。项目使用公开匿名化电商行为日志，分析用户从浏览、加购到购买和复访的行为路径，并把分析结果转化为产品与运营建议。
 
 ## 在线演示
@@ -126,9 +130,11 @@ Windows 启动 dashboard：
 - **Segments**：浏览型、加购未买型、购买型、复购型用户分层，品类和 session 深度。
 - **Insights**：自动生成的业务洞察和优化建议。
 
-## Dashboard 预览
+## 预览
 
-![Dashboard preview](assets/screenshots/dashboard_preview.png)
+数据故事页（在线版：<https://jiang4wqy.github.io/ecommerce-user-path-retention/>）：
+
+[![数据故事页预览](assets/screenshots/story_page.png)](https://jiang4wqy.github.io/ecommerce-user-path-retention/)
 
 ## 数据故事页（独立前端）
 
